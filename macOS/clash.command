@@ -9,7 +9,7 @@ networksetup -setsocksfirewallproxy Wi-Fi 127.0.0.1 7891
 dscacheutil -flushcache
 
 # 启动clash
-/Users/lattice/Documents/clash-core/clash-core -f /Users/lattice/Documents/clash-core/profile.yaml
+clash -f profile.yaml
 
 # 清除系统代理配置
 networksetup -setwebproxy Wi-Fi "" ""
