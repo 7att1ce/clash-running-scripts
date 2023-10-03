@@ -19,6 +19,7 @@ proxy-groups:
     type: select
     proxies:
       - fake-proxy
+      - DIRECT
 rules:
   - DOMAIN-SUFFIX,latt.icu,DIRECT
   - DOMAIN,gs.apple.com,Lattice
