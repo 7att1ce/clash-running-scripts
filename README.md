@@ -1,3 +1,4 @@
 # clash-running-scripts
 
-运行[clash命令行版](https://github.com/Dreamacro/clash)的脚本
+别用了，跑路了，难蚌
+这脚本干啥的我不知到，我乱写的
